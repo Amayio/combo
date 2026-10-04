@@ -1,0 +1,16 @@
+# Dependencies and build output (CI builds dist/)
+node_modules/
+dist/
+
+# Local reference files (original logo is in design/)
+/logo.png
+/unnamed.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+
+# Private notes, not for the repo
+NOTATKI.md

@@ -1,0 +1,13 @@
+{
+  "name": "lombard-combo-web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "logo": "python tools/build_logo.py"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0",
+    "html-minifier-terser": "^7.2.0"
+  }
+}
